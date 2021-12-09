@@ -14,6 +14,8 @@
 
 """Covertype Classifier trainer script."""
 
+# test a new release to google cloud build
+
 import pickle
 import subprocess
 import sys
